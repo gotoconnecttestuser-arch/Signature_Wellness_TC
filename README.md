@@ -1,7 +1,25 @@
 SMS Terms and Conditions
 Effective Date: October 19, 2026
 
-By opting in to receive SMS messages from Signature Wellness PA (“Signature Wellness,” “we,” “our,” or “us”), you agree to the following SMS Terms and Conditions.
+By opting in to receive SMS messages from Signature Wellness PA, you agree to receive customer care messages related to your interactions with our office.
+
+Message Frequency
+Message frequency may vary. On average, 1-2 messages per month.
+
+Consent
+Your consent to receive SMS messages is not a condition of purchase or care.
+
+Opt-Out
+You may opt out of SMS messages at any time by replying STOP to any message. After you opt out, you will no longer receive SMS messages from Signature Wellness PA unless you opt in again.
+
+Help
+For assistance, reply HELP to any message.
+
+Message and Data Rates
+Message and data rates may apply depending on your mobile carrier plan.
+
+Privacy Policy
+Your information will be handled in accordance with our Privacy Policy: https://github.com/gotoconnecttestuser-arch/Signature_Wellness_PP
 
 1. SMS Program Description
 
